@@ -35,7 +35,7 @@ function deleteBanking(){
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>FinanceMe Banking Project</title>
+    <title>FinanceMe Bank Project</title>
     <style>
         body {
             font-family: Arial, sans-serif;
