@@ -35,7 +35,7 @@ function deleteBanking(){
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>My Banking Project</title>
+    <title>FinanceMe Banking Project</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -120,7 +120,7 @@ function deleteBanking(){
              </form>
     </div>    
     <div>  
-    <h4>Policy Details</h4>
+    <h4>Account Details</h4>
             <table>
                 <thead>
                     <tr>
